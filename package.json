@@ -1,0 +1,24 @@
+{
+  "name": "elementalhttpserver",
+  "version": "1.0.0",
+  "description": "### Basic HTTP Server that reads from and writes to fs",
+  "main": "server.js",
+  "dependencies": {
+    "stringbuilder": "^0.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellamae0821/Elemental-HTTP-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellamae0821/Elemental-HTTP-Server/issues"
+  },
+  "homepage": "https://github.com/ellamae0821/Elemental-HTTP-Server#readme"
+}
